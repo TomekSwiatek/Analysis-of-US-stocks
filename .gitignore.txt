@@ -1,0 +1,3 @@
+#Pliki z danymi
+Apple.xlsx
+Nvidia.xlsx
